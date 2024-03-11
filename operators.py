@@ -2,13 +2,13 @@
 
 # 符号*
 # 数值乘法
-# result = 3 * 4
+result = 3 * 4
 
 # 列表重复
-# repeated_list = [1, 2] * 2
+repeated_list = [1, 2] * 2
 
 # 字符串重复
-# repeated_string = 'ab' * 3
+repeated_string = 'ab' * 3
 
 # 参数解包
 
