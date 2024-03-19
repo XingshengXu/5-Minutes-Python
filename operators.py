@@ -10,6 +10,13 @@ repeated_list = [1, 2] * 2
 # 字符串重复
 repeated_string = 'ab' * 3
 
+# 字典合并
+# dict1 = {'a': 1, 'b': 2}
+# dict2 = {'b': 3, 'c': 4}
+
+# merged_dict = {**dict1, **dict2}
+# print(merged_dict)
+
 # 参数解包
 
 
